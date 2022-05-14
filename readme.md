@@ -51,6 +51,13 @@ Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
 
+    !Note need java version should be 8 to 11
+
+
+you can check your version by running below command
+
+    java -version
+
 ## Setting up spark with pip environment and conda 
 
 ## Step 1: Creating Spark environment 
